@@ -1,8 +1,8 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Snack Track
+description: Daily snacking thoughts and comments
+meta_description: "Changing the snack game"
 
-aboutPage: true
+aboutPage: false
 
 markdown: kramdown
 highlighter: rouge
